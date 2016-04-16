@@ -1,0 +1,241 @@
+Octave version 3.8.1
+Minc-tool-kit version 0.3.18-20130531
+NIAK quarantine /home/pbellec/git/niak/commands/misc/niak_gb_vars.m
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X0010020
+Started on 16-Apr-2016 13:56:44
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X0010020.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:44 : The job was successfully completed
+Total time used to process the job : 0.04 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X0020008
+Started on 16-Apr-2016 13:56:44
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X0020008.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:44 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X2026113
+Started on 16-Apr-2016 13:56:45
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X2026113.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:45 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X0010065
+Started on 16-Apr-2016 13:56:51
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X0010065.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:51 : The job was successfully completed
+Total time used to process the job : 0.02 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X0010115
+Started on 16-Apr-2016 13:56:51
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X0010115.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:51 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X1187766
+Started on 16-Apr-2016 13:56:51
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X1187766.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:51 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X2124248
+Started on 16-Apr-2016 13:56:57
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X2124248.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:57 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X2352986
+Started on 16-Apr-2016 13:56:57
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X2352986.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:57 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X3845761
+Started on 16-Apr-2016 13:56:57
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X3845761.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:57 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X1686092
+Started on 16-Apr-2016 13:57:07
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X1686092.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:07 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X3308331
+Started on 16-Apr-2016 13:57:07
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X3308331.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:07 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X3672854
+Started on 16-Apr-2016 13:57:07
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X3672854.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:07 : The job was successfully completed
+Total time used to process the job : 0.02 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom100/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X0015041
+Started on 16-Apr-2016 13:57:14
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X0015041.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:14 : The job was successfully completed
+Total time used to process the job : 0.03 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X0016028
+Started on 16-Apr-2016 13:57:14
+User: pbellec
+host : sw-2r12-n42
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X0016028.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:14 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+16-Apr-2016 13:57:25 - The manager has requested to end the work asap!
+16-Apr-2016 13:57:25 - The manager has requested to end the work asap!
+
+attempting to save variables to 'octave-workspace'...

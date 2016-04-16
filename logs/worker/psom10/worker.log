@@ -1,0 +1,525 @@
+Octave version 3.8.1
+Minc-tool-kit version 0.3.18-20130531
+NIAK quarantine /home/pbellec/git/niak/commands/misc/niak_gb_vars.m
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X3699991
+Started on 16-Apr-2016 13:53:12
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X3699991_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X3699991_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X3699991.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:53:36 : The job was successfully completed
+Total time used to process the job : 23.66 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : report_X4275075
+Started on 16-Apr-2016 13:53:36
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X4275075_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X4275075_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X4275075.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:53:43 : The job was successfully completed
+Total time used to process the job : 7.48 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X8337695
+Started on 16-Apr-2016 13:53:44
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X8337695_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X8337695_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X8337695.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:53:54 : The job was successfully completed
+Total time used to process the job : 10.26 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0010066
+Started on 16-Apr-2016 13:53:55
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0010066_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0010066_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X0010066.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:54:06 : The job was successfully completed
+Total time used to process the job : 11.22 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0010112
+Started on 16-Apr-2016 13:54:06
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0010112_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0010112_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X0010112.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:54:15 : The job was successfully completed
+Total time used to process the job : 8.67 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0021039
+Started on 16-Apr-2016 13:54:15
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0021039_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0021039_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X0021039.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:54:28 : The job was successfully completed
+Total time used to process the job : 13.29 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X2741068
+Started on 16-Apr-2016 13:54:29
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X2741068_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X2741068_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X2741068.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:54:40 : The job was successfully completed
+Total time used to process the job : 11.05 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0027007
+Started on 16-Apr-2016 13:54:40
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0027007_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0027007_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X0027007.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:54:50 : The job was successfully completed
+Total time used to process the job : 10.67 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0023004
+Started on 16-Apr-2016 13:54:50
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0023004_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0023004_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X0023004.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:55:20 : The job was successfully completed
+Total time used to process the job : 29.72 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X1664335
+Started on 16-Apr-2016 13:55:20
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X1664335_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X1664335_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X1664335.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:55:40 : The job was successfully completed
+Total time used to process the job : 19.69 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X3286474
+Started on 16-Apr-2016 13:55:40
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X3286474_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X3286474_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X3286474.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:55:53 : The job was successfully completed
+Total time used to process the job : 13.13 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X3889095
+Started on 16-Apr-2016 13:55:53
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X3889095_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X3889095_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X3889095.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:02 : The job was successfully completed
+Total time used to process the job : 9.19 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X4265987
+Started on 16-Apr-2016 13:56:02
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X4265987_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X4265987_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X4265987.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:12 : The job was successfully completed
+Total time used to process the job : 10.02 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0016007
+Started on 16-Apr-2016 13:56:13
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0016007_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0016007_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X0016007.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:29 : The job was successfully completed
+Total time used to process the job : 16.19 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0016048
+Started on 16-Apr-2016 13:56:29
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0016048_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0016048_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X0016048.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:41 : The job was successfully completed
+Total time used to process the job : 11.77 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : report_X0025014
+Started on 16-Apr-2016 13:56:41
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0025014_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/summary_X0025014_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/report_coregister_X0025014.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:53 : The job was successfully completed
+Total time used to process the job : 12.08 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X2572285
+Started on 16-Apr-2016 13:56:53
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X2572285.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:53 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X3322144
+Started on 16-Apr-2016 13:56:55
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X3322144.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:55 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X4187857
+Started on 16-Apr-2016 13:56:56
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X4187857.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:56:56 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X1912810
+Started on 16-Apr-2016 13:57:00
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X1912810.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:00 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X2561174
+Started on 16-Apr-2016 13:57:00
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X2561174.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:00 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X3983607
+Started on 16-Apr-2016 13:57:00
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X3983607.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:00 : The job was successfully completed
+Total time used to process the job : 0.03 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X0015058
+Started on 16-Apr-2016 13:57:11
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X0015058.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:11 : The job was successfully completed
+Total time used to process the job : 0.12 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X0016043
+Started on 16-Apr-2016 13:57:11
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X0016043.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:11 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X4055710
+Started on 16-Apr-2016 13:57:11
+User: pbellec
+host : sw-2r10-n23
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/niak/qc_report/wrapper_X4055710.html was successfully generated!
+
+*********************************************************
+16-Apr-2016 13:57:11 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+16-Apr-2016 13:57:22 - The manager has requested to end the work asap!
+16-Apr-2016 13:57:22 - The manager has requested to end the work asap!
+
+attempting to save variables to 'octave-workspace'...

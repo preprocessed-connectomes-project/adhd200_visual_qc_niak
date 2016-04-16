@@ -1,0 +1,25 @@
+----------------------------------------
+Begin PBS Prologue Sat Apr 16 13:59:25 EDT 2016 1460829565
+Job ID:		56092475.gm-1r16-n04.guillimin.clumeq.ca
+Username:	pbellec
+Group:		gsf-624-02
+Nodes:		sw-2r10-n58
+End PBS Prologue Sat Apr 16 13:59:26 EDT 2016 1460829566
+----------------------------------------
+----------------------------------------
+Begin PBS Epilogue Sat Apr 16 13:59:27 EDT 2016 1460829567
+Job ID:		56092475.gm-1r16-n04.guillimin.clumeq.ca
+Username:	pbellec
+Group:		gsf-624-02
+Job Name:	psom216
+Session:	29095
+Limits:		neednodes=sw,serial,westmere,pmem=2700mb,walltime=03:00:00
+Resources:	cput=00:00:00,energy_used=0,mem=1212kb,vmem=9476kb,walltime=00:00:06
+Queue:		sw-serial
+Account:	gsf-624-aa
+Exit code:	0
+Nodes:	sw-2r10-n58
+Killing leftovers...
+
+End PBS Epilogue Sat Apr 16 13:59:28 EDT 2016 1460829568
+----------------------------------------
